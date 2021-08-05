@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github.com/Cleberstolz/Cleberstolz/blob/main/png%20escuro%20c%C3%B3pia.png" width="300"/>
+<img align="left" src="https://github.com/Cleberstolz/Cleberstolz/blob/main/png%20escuro%20c%C3%B3pia.png" width="250"/>
 
 <div>
   <h1> Cleberson Stolz </h1>

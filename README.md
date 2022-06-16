@@ -7,10 +7,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cleber-Hacker" height="28" width="25" src="https://github.com/Cleberstolz/Cleberstolz/blob/main/hacker.png">
-  <img align="center" alt="Cleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cleber-Dart" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
-  <img align="center" alt="Cleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Cleber-Dart" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
   <img align="center" alt="Cleber-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Cleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 </div>
 <br>
 <div>
